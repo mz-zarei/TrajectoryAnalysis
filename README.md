@@ -1,1 +1,6 @@
-# Analysing vehicle trajectories from different data sets such as NGSIM, INTERACTION, OpenDD, ...
+# CGAN for vehicle trajectories prediction
+
+Training a CGAN model to predict future trajectories of vehicles
+
+
+
